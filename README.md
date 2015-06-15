@@ -17,7 +17,7 @@ Release Version: http://code.google.com/p/server-test-toolkit/wiki/ReleaseVersio
 
 ## **![http://www.gstatic.com/codesite/ph/images/star_on.gif](http://www.gstatic.com/codesite/ph/images/star_on.gif) _Features_** ##
 
-> -   _[Shell Tool](http://code.google.com/p/server-test-toolkit/wiki/SshToolUsage)_
+> -   _[Shell Tool](https://github.com/jiafu1115/server-test-toolkit/blob/master/SshToolUsage.md)_
 
   * Feature; shell commands' execute and results retrieve based on remote linux server;
 
@@ -38,7 +38,7 @@ Release Version: http://code.google.com/p/server-test-toolkit/wiki/ReleaseVersio
   * Use: test data prepare, used for storage applications.
 
 
-> -  _[General DB Access Tool](http://code.google.com/p/server-test-toolkit/wiki/DatabaseToolUsage)_
+> -  _[General DB Access Tool](https://github.com/jiafu1115/server-test-toolkit/blob/master/DatabaseToolUsage)_
 
   * Feature: access db and do operations.
 
