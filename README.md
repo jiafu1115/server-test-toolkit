@@ -1,7 +1,6 @@
 _SST_ is an open source project which is designed for test automation of server applications.
 ## **![http://www.gstatic.com/codesite/ph/images/star_on.gif](http://www.gstatic.com/codesite/ph/images/star_on.gif) _Code_** ##
 
-Code SVN: https://server-test-toolkit.googlecode.com/svn/trunk/
 
 Apache Maven: http://search.maven.org/#browse%7C779006397
 
@@ -38,7 +37,7 @@ Release Version: http://code.google.com/p/server-test-toolkit/wiki/ReleaseVersio
   * Use: test data prepare, used for storage applications.
 
 
-> -  _[General DB Access Tool](https://github.com/jiafu1115/server-test-toolkit/blob/master/DatabaseToolUsage)_
+> -  _[General DB Access Tool](https://github.com/jiafu1115/server-test-toolkit/blob/master/DatabaseToolUsage.md)_
 
   * Feature: access db and do operations.
 
