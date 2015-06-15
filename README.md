@@ -12,7 +12,6 @@ Apache Maven: http://search.maven.org/#browse%7C779006397
 </dependency>
 ```
 
-Release Version: http://code.google.com/p/server-test-toolkit/wiki/ReleaseVersion?ts=1398301402&updated=ReleaseVersion
 
 ## **![http://www.gstatic.com/codesite/ph/images/star_on.gif](http://www.gstatic.com/codesite/ph/images/star_on.gif) _Features_** ##
 
