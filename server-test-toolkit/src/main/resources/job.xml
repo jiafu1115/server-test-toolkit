@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<jobs>
-	<!-- job define should match with com.googlecode.test.toolkit.job.config.JobEntry<T> -->
-	<job>
-		<parameter name="name" value="JobName" />
-		<parameter name="className" value="JobClass full quality name" />
-	</job>
-</jobs>
