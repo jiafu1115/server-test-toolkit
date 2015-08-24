@@ -43,8 +43,9 @@ public class ToJavabeanListHandler<T> implements ResultSetHandler<List<T>> {
 						String msg = String.format("[DB][Column][Key:Value][%s:%s]", key, value);
 						LOGGER.debug(msg);
 					}
-
-					BeanUtils.copyProperty(entity, key, value);
+					
+					if(value!=null)
+						BeanUtils.copyProperty(entity, key, value);
 				}
 				list.add(entity);
 			}
