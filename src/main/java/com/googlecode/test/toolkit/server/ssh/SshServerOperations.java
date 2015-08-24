@@ -128,7 +128,7 @@ public class SshServerOperations extends AbstractServerOperations {
 		ValidationUtil.checkString(command);
 		
 		if(enableSudo)
-			command="sudo "+command;
+			command="sudo sh -c \""+command+"\"";
 
 		Collection<SshTask> sshTasks = formatSshTasks(command, returnResult, isHanged);
 		return invokeSshTasks(sshTasks);
