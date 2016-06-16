@@ -23,6 +23,8 @@ public class SftpRemoteStorage extends AbstractRemoteStroage {
  	/**
 	 * after instance created, the connection will be created by default, but you should call
 	 * {@link #disconnect()} to release the connection.
+	 * if request channel fail, check the configure for sshd:  
+	 * add "Subsystem    sftp /usr/libexec/openssh/sftp-server" to sshd_config and reload/restart sshd
 	 * @param sshUser
 	 */
 	public SftpRemoteStorage(SshUser sshUser) {
